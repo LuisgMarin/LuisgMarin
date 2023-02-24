@@ -7722,7 +7722,7 @@ textarea.form-control-lg {
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+  color: #214E34 !important;
 }
 
 .text-success {
@@ -7762,7 +7762,7 @@ textarea.form-control-lg {
 
 .text-white {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  color: #011638 !important;
 }
 
 .text-body {
@@ -7808,12 +7808,12 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #CDCDCD !important;
 }
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #011638 !important;
 }
 
 .bg-success {
@@ -11332,10 +11332,10 @@ html {
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
-  background-color: #fff;
+  background-color: #364156;
 }
 .divider-custom.divider-light .divider-custom-icon {
-  color: #fff;
+  color: #364156;
 }
 
 .btn-xl {
